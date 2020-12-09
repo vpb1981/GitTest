@@ -12,6 +12,12 @@ namespace HelloWorld
         {
             Console.ReadLine();
             Console.WriteLine("hello");
+            PrintWorld();
+        }
+
+        private static void PrintWorld()
+        {
+            Console.WriteLine("World");
 
         }
     }
