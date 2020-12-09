@@ -18,8 +18,7 @@ namespace HelloWorld
 
         private static void PrintUniverse()
         {
-            Console.WriteLine("Universe");
-            
+            Console.WriteLine("Universe");           
         }
 
         private static void PrintWorld()
